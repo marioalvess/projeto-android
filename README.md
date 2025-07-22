@@ -1,1 +1,3 @@
-<a href="https://marioalvess.github.io/projeto-android/">Clique aqui e acesse o link do projeto.</a>
+Clique abaixo para acessar o link do projeto
+
+https://marioalvess.github.io/projeto-android/
